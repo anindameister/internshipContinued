@@ -1,149 +1,149 @@
-image_Name,object_1,is close to,is far from
-download (10).jpg,cat,cup,na
-download (10).jpg,cup,cat,na
-download (12).jpg,cat,na,dining table
-download (12).jpg,dining table,na,cat
-download (14).jpg,elephant,na,elephant
-download (14).jpg,elephant,na,elephant
-download (15).jpg,elephant,cow,na
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,na,elephant
-download (15).jpg,elephant,na,elephant
-download (15).jpg,elephant,cow,na
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,cow,na
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,na,cow
-download (15).jpg,cow,na,elephant
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,cow,na
-download (15).jpg,cow,cow,na
-download (15).jpg,cow,cow,na
-download (15).jpg,cow,cow,na
-download (15).jpg,cow,cow,na
-download (15).jpg,cow,cow,na
-download (15).jpg,cow,cow,na
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,cow,na
-download (15).jpg,cow,na,elephant
-download (15).jpg,elephant,na,cow
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,cow,na
-download (15).jpg,elephant,cow,na
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,cow,na
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,na,cow
-download (15).jpg,cow,na,elephant
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,cow,cow,na
-download (15).jpg,cow,cow,na
-download (15).jpg,cow,cow,na
-download (15).jpg,cow,cow,na
-download (15).jpg,cow,na,elephant
-download (15).jpg,elephant,na,cow
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,cow,na
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,cow,na
-download (15).jpg,cow,cow,na
-download (15).jpg,cow,cow,na
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,cow,na
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,cow,na
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,cow,na
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,cow,na
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,cow,na
-download (15).jpg,cow,elephant,na
-download (15).jpg,elephant,cow,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (15).jpg,elephant,elephant,na
-download (16).jpg,elephant,elephant,na
-download (16).jpg,elephant,elephant,na
-download (17).jpg,elephant,car,na
-download (17).jpg,car,elephant,na
-download (17).jpg,elephant,na,elephant
-download (17).jpg,elephant,na,elephant
-download (17).jpg,car,elephant,na
-download (17).jpg,elephant,car,na
-download (18).jpg,car,dog,na
-download (18).jpg,dog,car,na
-download (19).jpg,elephant,car,na
-download (19).jpg,car,elephant,na
-download (2).jpg,car,car,na
-download (2).jpg,car,car,na
-download (3).jpg,person,car,na
-download (3).jpg,car,person,na
-download (7).jpg,bus,traffic light,na
-download (7).jpg,traffic light,bus,na
-download (9).jpg,bus,person,na
-download (9).jpg,person,bus,na
-images (1).jpg,elephant,na,truck
-images (1).jpg,truck,na,elephant
-images (1).jpg,elephant,car,na
-images (1).jpg,car,elephant,na
-images (1).jpg,elephant,truck,na
-images (1).jpg,truck,elephant,na
-images (1).jpg,elephant,car,na
-images (1).jpg,car,elephant,na
-images (1).jpg,truck,car,na
-images (1).jpg,car,truck,na
-images (1).jpg,truck,truck,na
-images (1).jpg,truck,truck,na
-images (1).jpg,truck,car,na
-images (1).jpg,car,truck,na
-images (1).jpg,car,truck,na
-images (1).jpg,truck,car,na
-images (1).jpg,car,na,car
-images (1).jpg,car,na,car
-images (1).jpg,truck,car,na
-images (1).jpg,car,truck,na
-images.jpg,person,car,na
-images.jpg,car,person,na
-images.jpg,person,elephant,na
-images.jpg,elephant,person,na
-images.jpg,person,na,person
-images.jpg,person,na,person
-images.jpg,person,person,na
-images.jpg,person,person,na
-images.jpg,person,person,na
-images.jpg,person,person,na
-images.jpg,car,elephant,na
-images.jpg,elephant,car,na
-images.jpg,car,person,na
-images.jpg,person,car,na
-images.jpg,car,person,na
-images.jpg,person,car,na
-images.jpg,car,person,na
-images.jpg,person,car,na
-images.jpg,elephant,person,na
-images.jpg,person,elephant,na
-images.jpg,elephant,person,na
-images.jpg,person,elephant,na
-images.jpg,elephant,person,na
-images.jpg,person,elephant,na
-images.jpg,person,person,na
-images.jpg,person,person,na
-images.jpg,person,person,na
-images.jpg,person,person,na
-images.jpg,person,person,na
-images.jpg,person,person,na
+image_Name,object_1,is close to,is far from,is_smaller_than,overlaps,doesnt_overlap,is_in_the_right_of,is_in_the_left_of,is_in_the_bottom_of,is_in_the_top_of
+download (10).jpg,cat,cup,na,na,na,na,na,na,na,na
+download (10).jpg,cup,cat,na,na,na,na,na,na,na,na
+download (12).jpg,cat,na,dining table,na,na,na,na,na,na,na
+download (12).jpg,dining table,na,cat,na,na,na,na,na,na,na
+download (14).jpg,elephant,na,elephant,na,na,na,na,na,na,na
+download (14).jpg,elephant,na,elephant,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,na,elephant,na,na,na,na,na,na,na
+download (15).jpg,elephant,na,elephant,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,na,cow,na,na,na,na,na,na,na
+download (15).jpg,cow,na,elephant,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,na,elephant,na,na,na,na,na,na,na
+download (15).jpg,elephant,na,cow,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,na,cow,na,na,na,na,na,na,na
+download (15).jpg,cow,na,elephant,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,cow,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,na,elephant,na,na,na,na,na,na,na
+download (15).jpg,elephant,na,cow,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,cow,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,cow,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (15).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (16).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (16).jpg,elephant,elephant,na,na,na,na,na,na,na,na
+download (17).jpg,elephant,car,na,na,na,na,na,na,na,na
+download (17).jpg,car,elephant,na,na,na,na,na,na,na,na
+download (17).jpg,elephant,na,elephant,na,na,na,na,na,na,na
+download (17).jpg,elephant,na,elephant,na,na,na,na,na,na,na
+download (17).jpg,car,elephant,na,na,na,na,na,na,na,na
+download (17).jpg,elephant,car,na,na,na,na,na,na,na,na
+download (18).jpg,car,dog,na,na,na,na,na,na,na,na
+download (18).jpg,dog,car,na,na,na,na,na,na,na,na
+download (19).jpg,elephant,car,na,na,na,na,na,na,na,na
+download (19).jpg,car,elephant,na,na,na,na,na,na,na,na
+download (2).jpg,car,car,na,na,na,na,na,na,na,na
+download (2).jpg,car,car,na,na,na,na,na,na,na,na
+download (3).jpg,person,car,na,na,na,na,na,na,na,na
+download (3).jpg,car,person,na,na,na,na,na,na,na,na
+download (7).jpg,bus,traffic light,na,na,na,na,na,na,na,na
+download (7).jpg,traffic light,bus,na,na,na,na,na,na,na,na
+download (9).jpg,bus,person,na,na,na,na,na,na,na,na
+download (9).jpg,person,bus,na,na,na,na,na,na,na,na
+images (1).jpg,elephant,na,truck,na,na,na,na,na,na,na
+images (1).jpg,truck,na,elephant,na,na,na,na,na,na,na
+images (1).jpg,elephant,car,na,na,na,na,na,na,na,na
+images (1).jpg,car,elephant,na,na,na,na,na,na,na,na
+images (1).jpg,elephant,truck,na,na,na,na,na,na,na,na
+images (1).jpg,truck,elephant,na,na,na,na,na,na,na,na
+images (1).jpg,elephant,car,na,na,na,na,na,na,na,na
+images (1).jpg,car,elephant,na,na,na,na,na,na,na,na
+images (1).jpg,truck,car,na,na,na,na,na,na,na,na
+images (1).jpg,car,truck,na,na,na,na,na,na,na,na
+images (1).jpg,truck,truck,na,na,na,na,na,na,na,na
+images (1).jpg,truck,truck,na,na,na,na,na,na,na,na
+images (1).jpg,truck,car,na,na,na,na,na,na,na,na
+images (1).jpg,car,truck,na,na,na,na,na,na,na,na
+images (1).jpg,car,truck,na,na,na,na,na,na,na,na
+images (1).jpg,truck,car,na,na,na,na,na,na,na,na
+images (1).jpg,car,na,car,na,na,na,na,na,na,na
+images (1).jpg,car,na,car,na,na,na,na,na,na,na
+images (1).jpg,truck,car,na,na,na,na,na,na,na,na
+images (1).jpg,car,truck,na,na,na,na,na,na,na,na
+images.jpg,person,car,na,na,na,na,na,na,na,na
+images.jpg,car,person,na,na,na,na,na,na,na,na
+images.jpg,person,elephant,na,na,na,na,na,na,na,na
+images.jpg,elephant,person,na,na,na,na,na,na,na,na
+images.jpg,person,na,person,na,na,na,na,na,na,na
+images.jpg,person,na,person,na,na,na,na,na,na,na
+images.jpg,person,person,na,na,na,na,na,na,na,na
+images.jpg,person,person,na,na,na,na,na,na,na,na
+images.jpg,person,person,na,na,na,na,na,na,na,na
+images.jpg,person,person,na,na,na,na,na,na,na,na
+images.jpg,car,elephant,na,na,na,na,na,na,na,na
+images.jpg,elephant,car,na,na,na,na,na,na,na,na
+images.jpg,car,person,na,na,na,na,na,na,na,na
+images.jpg,person,car,na,na,na,na,na,na,na,na
+images.jpg,car,person,na,na,na,na,na,na,na,na
+images.jpg,person,car,na,na,na,na,na,na,na,na
+images.jpg,car,person,na,na,na,na,na,na,na,na
+images.jpg,person,car,na,na,na,na,na,na,na,na
+images.jpg,elephant,person,na,na,na,na,na,na,na,na
+images.jpg,person,elephant,na,na,na,na,na,na,na,na
+images.jpg,elephant,person,na,na,na,na,na,na,na,na
+images.jpg,person,elephant,na,na,na,na,na,na,na,na
+images.jpg,elephant,person,na,na,na,na,na,na,na,na
+images.jpg,person,elephant,na,na,na,na,na,na,na,na
+images.jpg,person,person,na,na,na,na,na,na,na,na
+images.jpg,person,person,na,na,na,na,na,na,na,na
+images.jpg,person,person,na,na,na,na,na,na,na,na
+images.jpg,person,person,na,na,na,na,na,na,na,na
+images.jpg,person,person,na,na,na,na,na,na,na,na
+images.jpg,person,person,na,na,na,na,na,na,na,na
